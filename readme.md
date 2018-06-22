@@ -31,4 +31,23 @@ All products and services can be tracked on the network, enabling anyone to buil
 
 ## Distributed Storage
 
-## distributed Application
+Storage Blocks are used to store user data.
+User data is identified by address and usage is legitimized by the corresponding private
+key signatures and the user data can be encrypted. User data is treated as a value object
+and can be transferred and traded. The BigTangle Mainnet limits the size of the storage.
+We thereby create an application layer storage
+network based on pay for use.
+
+## Distributed Application
+
+Virtual OS Blocks (VOS) are used to create
+a virtual distributed Operation System for decentralized autonomous corporations, smart
+contracts and any other distributed applications similar to other alternative blockchains. The distributed applications can be
+implemented in any modern language and
+are not limited to using specialized languages.
+The relevant code and state data is saved
+in the block as VM containers using technology such as Docker Composer  or Kubernetes Containers. The execution of VOS blocks changes the state data and creates new
+VOS blocks. As an example, the Mining Reward Process in BigTangle is implemented using this VOS and all nodes will execute the
+same computation for validated mining rewards based on the current data in BigTangle.
+As another example, the market exchange application is implemented in such a form that
+it uses only a specific node for execution without further validation.
