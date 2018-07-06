@@ -51,3 +51,5 @@ VOS blocks. As an example, the Mining Reward Process in BigTangle is implemented
 same computation for validated mining rewards based on the current data in BigTangle.
 As another example, the market exchange application is implemented in such a form that
 it uses only a specific node for execution without further validation.
+
+## the source code will be later here. 
