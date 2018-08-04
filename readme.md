@@ -40,16 +40,19 @@ network based on pay for use.
 
 ## Distributed Application
 
-Virtual OS Blocks (VOS) are used to create
+Smart contracts Blocks  are used to create
 a virtual distributed Operation System for decentralized autonomous corporations, smart
 contracts and any other distributed applications similar to other alternative blockchains. The distributed applications can be
 implemented in any modern language and
 are not limited to using specialized languages.
 The relevant code and state data is saved
-in the block as VM containers using technology such as Docker Composer  or Kubernetes Containers. The execution of VOS blocks changes the state data and creates new
-VOS blocks. As an example, the Mining Reward Process in BigTangle is implemented using this VOS and all nodes will execute the
+in the block as VM containers using technology such as Docker Composer  or Kubernetes Containers. The execution of Smart contracts blocks changes the state data and creates new
+Smart contracts blocks. As an example, the Mining Reward Process in BigTangle is implemented using this Smart contracts and all nodes will execute the
 same computation for validated mining rewards based on the current data in BigTangle.
 As another example, the market exchange application is implemented in such a form that
 it uses only a specific node for execution without further validation.
 
-## the source code will be later here. 
+## Public BigTangle and permissioned BigTangle 
+
+
+## the source code will be published here. 
