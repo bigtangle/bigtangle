@@ -55,4 +55,4 @@ it uses only a specific node for execution without further validation.
 ## Public BigTangle and permissioned BigTangle 
 
 
-## the source code will be published here. 
+## the source code is only in our GIT now and will be published here. 
