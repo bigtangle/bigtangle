@@ -18,6 +18,11 @@ costly processes of traditional payment processing.
 ## Fiat Money
 For banks and central banks, the token issuance protocol can be used to issue bank-backed tokens denoting conventional fiat money. Fiat money transactions can then feasibly be processed within seconds on a worldwide scale.
 
+## Decentralized Exchange
+
+BigTangle is a decentralized exchange.
+
+
 ## Markets
 
 Markets for stocks, bonds etc. can easily be realized by creating new token equivalents. Companies can publish stocks and use the BigTangle network. The existing stock markets can be fully integrated by using BigTangle as a financial back-end.
@@ -52,7 +57,7 @@ same computation for validated mining rewards based on the current data in BigTa
 As another example, the market exchange application is implemented in such a form that
 it uses only a specific node for execution without further validation.
 
-## Public BigTangle and permissioned BigTangle 
+## https://bigtangle.net
 
 
 ## the source code is only in our GIT now and will be published here. 
