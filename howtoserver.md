@@ -1,7 +1,7 @@
 
 # Install mysql database
 
-# create database for Bigtangleand execute the following 
+# create database for Bigtangle
 ``` 
 CREATE DATABASE info  character set utf8 COLLATE utf8_general_ci;
 USE info;
