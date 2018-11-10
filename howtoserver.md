@@ -1,18 +1,20 @@
 
 # Install mysql database
 
-# create database for Bigtangle
+# Create database for Bigtangle
 ``` 
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'test1234';
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'test1234' WITH GRANT OPTION;
 CREATE DATABASE info  character set utf8 COLLATE utf8_general_ci;
-USE info;
-CREATE USER 'info'@'%' IDENTIFIED BY 'info';
-REVOKE ALL PRIVILEGES, GRANT OPTION FROM 'info'@'%';
-GRANT SELECT,INSERT,UPDATE,DELETE,LOCK TABLES,EXECUTE ON info.* TO 'info'@'%';
-FLUSH PRIVILEGES;
 
 ```
+# Import the database file from daily backup testnet
+ [Download database](https://github.com/bigtangle/zipfile/blob/master/bigtangle-database.sql)
+ Then import this sql file
+ mysql -u root -ptest1234  info < bigtangle-database.sql
+ 
 
-# download the Bigtangle server
+# Download the Bigtangle server
  [Download](https://github.com/bigtangle/zipfile/blob/master/bigtangle-server.zip)
  
 # Start Server
@@ -49,4 +51,4 @@ set REQUESTER=https://bigtangle.org, https://bigtangle.de
 
 use bin\bigtangle-server.bat to start the server application.
 
-The you can check the log  file.
+Then you can check the log file.
