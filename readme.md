@@ -1,4 +1,4 @@
-# BigTangle is a protocol for the internet of value.
+#The BigTangle is a decentralized cryptocurrency, payment, exchange, supply chain and e-commerce platform.
 
  * BigTangle is a cryptocurrency network extending the directed acyclic graph with Markov Chain Monte Carlo (MCMC) 
 as consensus algorithm and distributed Proof-of-Work. 
@@ -60,4 +60,4 @@ it uses only a specific node for execution without further validation.
 ## https://bigtangle.net
 
 
-## the source code is only in our GIT now and will be published here. 
+## Source for Android App https://github.com/bigtangle/bigtangle-app
