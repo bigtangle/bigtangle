@@ -1,6 +1,6 @@
 # BigTangle is a decentralized cryptocurrency, payment, exchange, supply chain, e-commerce  and digital health platform.
 
-## [The Implementation of Blockchain Corona Virus Track App]  (https://github.com/bigtangle/bigtangle/blob/master/coronatrack.docx)
+## The Implementation of Blockchain Corona Virus Track App  https://github.com/bigtangle/bigtangle/blob/master/coronatrack.docx
 
  * BigTangle is a cryptocurrency network extending the directed acyclic graph with Markov Chain Monte Carlo (MCMC) 
 as consensus algorithm and distributed Proof-of-Work. 
