@@ -1,35 +1,33 @@
-# BigTangle is a decentralized cryptocurrency, payment, exchange, supply chain, e-commerce  and digital health platform.
+# BigTangle is a decentralized cryptocurrency, payment, exchange and web3 platform
 
-## The Implementation of Blockchain Corona Virus Track App  https://github.com/bigtangle/bigtangle/blob/master/coronatrack.docx
-
- * BigTangle is a cryptocurrency network extending the directed acyclic graph with Markov Chain Monte Carlo (MCMC) 
-as consensus algorithm and distributed Proof-of-Work. 
- * Through the use of industry standard big data technology in conjunction with the parallelizable architecture, 
+* BigTangle is a cryptocurrency network extending the blockchain with Markov Chain Monte Carlo (MCMC)
+as consensus algorithm and Proof-of-Work and the Proof-of-Stake.
+* Through the use of industry standard big data technology in conjunction with the parallelizable architecture,
 BigTangle sees itself as a successor to Bitcoin and Ethereum that blockchain and smart contract are BigTangle special use case.  
- * BigTangle focuses on economically important key use-cases. Custom token issuances, market, exchange, mining and contract are supported.
- * Key Feartures are: Ease of Use, Completely Feeless, Real-Time Confirmation, Infinite Scalability, Permissionless, Trustless, Decentralized, Distributed Proof of Work and Quantum Security. 
-  * https://bigtangle.net
-
+* BigTangle focuses on economically important key use-cases. Custom token issuances, market, exchange, mining and contract are supported.
+* Key Feartures are: Ease of Use, Completely Feeless, Real-Time Confirmation, Infinite Scalability, Permissionless, Trustless, Decentralized, Distributed Proof of Work and Quantum Security.
+* <https://bigtangle.org>
 
 ## Payment
 
-By providing scalable infrastructure, BigTangle allows the global transaction volume to be processed in one network. 
-Most importantly, this offers infrastructural cost advantages by eliminating complex, 
+By providing scalable infrastructure, BigTangle allows the global transaction volume to be processed in one network.
+Most importantly, this offers infrastructural cost advantages by eliminating complex,
 costly processes of traditional payment processing.
 
 ## Fiat Money
+
 For banks and central banks, the token issuance protocol can be used to issue bank-backed tokens denoting conventional fiat money. Fiat money transactions can then feasibly be processed within seconds on a worldwide scale.
 
 ## Decentralized Exchange
 
 BigTangle is a decentralized exchange.
 
-
 ## Markets
 
 Markets for stocks, bonds etc. can easily be realized by creating new token equivalents. Companies can publish stocks and use the BigTangle network. The existing stock markets can be fully integrated by using BigTangle as a financial back-end.
 
 ## Supply Chain
+
 Under the assumption of trustworthy suppliers issuing authenticity tokens, it is trivial to track product authenticity via token transfers. This allows the trustless tracking of inventories in supply chains for consumers and middlemen alike.
 
 ## Decentralized E-commerce Platforms
@@ -59,7 +57,6 @@ same computation for validated mining rewards based on the current data in BigTa
 As another example, the market exchange application is implemented in such a form that
 it uses only a specific node for execution without further validation.
 
-## https://bigtangle.net
+## <https://bigtangle.org>
 
-
-## Source for Android App https://github.com/bigtangle/bigtangle-app
+## Source for Android App <https://github.com/bigtangle/bigtangle-app>
