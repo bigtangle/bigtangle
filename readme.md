@@ -35,5 +35,4 @@ BigTangle operates as a decentralized exchange with integrated markets for vario
 
 ## Source for Android App <https://github.com/bigtangle/bigtangle-app>
 
-
-## [Chinese (中文)](/zh/readme.md)   
+## [Chinese (中文)](/zh/readme.md)
