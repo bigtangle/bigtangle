@@ -29,6 +29,8 @@ For banks and central banks, the token issuance protocol can be used to issue ba
 
 BigTangle operates as a decentralized exchange with integrated markets for various assets such as stocks and bonds. Creating new token equivalents makes it easy for companies to issue stocks on the BigTangle network. Existing stock markets can seamlessly integrate with BigTangle as a back-end, providing a comprehensive and decentralized trading environment.
 
-[Blockchain with MCMC](images/mcmc-en.png)
+ Blockchain with MCMC ![alt text](images/mcmc-en.png) 
+
+## White paper <https://github.com/bigtangle/whitepaper/bigtangle.pdf>
 
 ## Source for Android App <https://github.com/bigtangle/bigtangle-app>
