@@ -1,18 +1,25 @@
-# BigTangle is a decentralized cryptocurrency, payment, exchange and web3 platform
+# Cryptocurrency, Payment, Exchange, and Web3 Platform
 
-* BigTangle is a cryptocurrency network extending the blockchain with Markov Chain Monte Carlo (MCMC)
-as consensus algorithm and Proof-of-Work and the Proof-of-Stake.
-* Through the use of industry standard big data technology in conjunction with the parallelizable architecture,
-BigTangle sees itself as a successor to Bitcoin and Ethereum that blockchain and smart contract are BigTangle special use case.  
-* BigTangle focuses on economically important key use-cases. Custom token issuances, market, exchange, mining and contract are supported.
-* Key Feartures are: Ease of Use, Completely Feeless, Real-Time Confirmation, Infinite Scalability, Permissionless, Trustless, Decentralized, Distributed Proof of Work and Quantum Security.
-* <https://bigtangle.org>
+BigTangle is a cryptocurrency network extending the blockchain with Markov Chain Monte Carlo (MCMC). The consensus algorithm is initially Proof-of-Work and will be migrated to Proof-of-Stake.
+
+Through the use of industry-standard technology in conjunction with a parallelizable architecture, BigTangle positions itself as a successor to Bitcoin and Ethereum, with blockchain and smart contracts representing its special use cases.
+
+BigTangle focuses on economically important key use-cases, supporting custom token issuances, market transactions, exchanges, mining activities, and contracts.
+
+## Key Features
+
+- **Ease of Use:** BigTangle emphasizes user-friendly interfaces.
+- **Near-Time Confirmation:** Transactions are confirmed promptly.
+- **Infinite Scalability:** The platform can scale without limitations.
+- **Permissionless:** Open access for all participants.
+- **Trustless:** Decentralized without the need for trust.
+- **Decentralized Proof of Work:** Distributes the proof-of-work mechanism.
+- **Constant Total Coin:** Maintains a consistent coin supply.
+- **Quantum Security:** Incorporates measures for quantum resistance.
 
 ## Payment
 
-By providing scalable infrastructure, BigTangle allows the global transaction volume to be processed in one network.
-Most importantly, this offers infrastructural cost advantages by eliminating complex,
-costly processes of traditional payment processing.
+By providing scalable infrastructure, BigTangle allows the global transaction volume to be processed on a single network. This offers infrastructural cost advantages by eliminating the complex, costly processes of traditional payment processing.
 
 ## Fiat Money
 
@@ -20,43 +27,8 @@ For banks and central banks, the token issuance protocol can be used to issue ba
 
 ## Decentralized Exchange
 
-BigTangle is a decentralized exchange.
+BigTangle operates as a decentralized exchange with integrated markets for various assets such as stocks and bonds. Creating new token equivalents makes it easy for companies to issue stocks on the BigTangle network. Existing stock markets can seamlessly integrate with BigTangle as a back-end, providing a comprehensive and decentralized trading environment.
 
-## Markets
-
-Markets for stocks, bonds etc. can easily be realized by creating new token equivalents. Companies can publish stocks and use the BigTangle network. The existing stock markets can be fully integrated by using BigTangle as a financial back-end.
-
-## Supply Chain
-
-Under the assumption of trustworthy suppliers issuing authenticity tokens, it is trivial to track product authenticity via token transfers. This allows the trustless tracking of inventories in supply chains for consumers and middlemen alike.
-
-## Decentralized E-commerce Platforms
-
-All products and services can be tracked on the network, enabling anyone to build decentralized e-commerce platforms.
-
-## Distributed Storage
-
-Storage Blocks are used to store user data.
-User data is identified by address and usage is legitimized by the corresponding private
-key signatures and the user data can be encrypted. User data is treated as a value object
-and can be transferred and traded. The BigTangle Mainnet limits the size of the storage.
-We thereby create an application layer storage
-network based on pay for use.
-
-## Distributed Application
-
-Smart contracts Blocks  are used to create
-a virtual distributed Operation System for decentralized autonomous corporations, smart
-contracts and any other distributed applications similar to other alternative blockchains. The distributed applications can be
-implemented in any modern language and
-are not limited to using specialized languages.
-The relevant code and state data is saved
-in the block as VM containers using technology such as Docker Composer  or Kubernetes Containers. The execution of Smart contracts blocks changes the state data and creates new
-Smart contracts blocks. As an example, the Mining Reward Process in BigTangle is implemented using this Smart contracts and all nodes will execute the
-same computation for validated mining rewards based on the current data in BigTangle.
-As another example, the market exchange application is implemented in such a form that
-it uses only a specific node for execution without further validation.
-
-## <https://bigtangle.org>
+[Blockchain with MCMC](images/mcmc-en.png)
 
 ## Source for Android App <https://github.com/bigtangle/bigtangle-app>
