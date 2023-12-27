@@ -1,7 +1,7 @@
 # 加密货币、支付、资产、交易和Web3平台
 
 大网(BigTangle)是一个加密货币网络，通过马尔可夫链蒙特卡洛（MCMC）的帮助扩展区块链。共识算法采用工作证明（Proof-of-Work)，将迁移到股权证明（Proof-of-Stake)。区块链形成共识，其中每个形成链的区块包含引用对其他类型交易区块的表。可并行处理的交易区块遵循MCMC规则。这种新协议具有高度可并行化、可扩展和快速的特点。
-
+ 区块链MCMC ![alt text](../images/mcmc-zh.png)
 通过使用标准技术与可并行化的架构相结合，大网(BigTangle)为比特币和以太坊的继任者，区块链 Bitcoin 和智能合约Ethereum代表特殊用例。
 
 大网(BigTangle)专注于经济重要的关键用例，支持自定义代币发行、交易、交易所、挖矿活动和合约。
@@ -31,8 +31,6 @@
 ## Web3
 
 大网(BigTangle)实现用于去中心化彩票，通证跨链,数字身份证, 并可以提供Web服务和存储。
-
- 区块链MCMC ![alt text](images/mcmc-en.png)
 
 ## 白皮书 <https://github.com/igtangle/whitepaper/bigtangle.pdf>
 

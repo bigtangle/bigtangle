@@ -1,7 +1,9 @@
 # Cryptocurrency, Payment, Asset，Exchange and Web3 Platform
 
 
-BigTangle is a cryptocurrency network that extends the blockchain with the help of the Markov Chain Monte Carlo (MCMC). The consensus algorithm is Proof-of-Work and will be migrated to Proof-of-Stake. The consensus forms the blockchain, where each chain block contains a list of references to other transaction blocks. The parallelizable transaction blocks follow the rules of MCMC between two chain blocks. This new protocol is highly parallelizable, scalable and fast.
+BigTangle is a cryptocurrency network that extends the blockchain with the help of the Markov Chain Monte Carlo (MCMC). The consensus algorithm is Proof-of-Work and will be migrated to Proof-of-Stake. The consensus forms the blockchain, where each chain block contains a list of references to other transaction blocks and the previous chain block. The parallelizable transaction blocks follow the rules of MCMC between two chain blocks. This new protocol is highly parallelizable, scalable and fast.
+
+ Blockchain MCMC ![alt text](images/mcmc-en.png)
 
 Through the use of standard technology in conjunction with a parallelizable architecture, BigTangle positions itself as a successor to Bitcoin and Ethereum, with blockchain and smart contracts representing as special use cases.
 
@@ -15,7 +17,7 @@ BigTangle focuses on economically important key use-cases, supporting token issu
 - **Permissionless:** Open access for all participants.
 - **Trustless:** Decentralized without the need for trust.
 - **Decentralized Proof of Work:** Distributes the proof-of-work mechanism.
-- **Constant Total Coin and Fee:** Maintains a constant coin supply and fee pro block. The mining reward is the collected fees.
+- **Constant Total Coin and Fee:** Maintains a constant coin supply and fee pro block. The mining reward is the fees.
 
 ## Transaction
 
@@ -33,7 +35,7 @@ BigTangle operates as a decentralized exchange with integrated markets for vario
 
 BigTangle implements a decentralized lottery, Cross-Chain Tokens, Digital Identity and  provides web service and storage.
 
- Blockchain MCMC ![alt text](images/mcmc-en.png) 
+##
 
 ## White paper <https://github.com/bigtangle/whitepaper/bigtangle.pdf>
 
