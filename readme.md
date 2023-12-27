@@ -37,8 +37,10 @@ BigTangle implements a decentralized lottery, Cross-Chain Tokens, Digital Identi
 
 ##
 
-## White paper <https://github.com/bigtangle/whitepaper/bigtangle.pdf>
+## Source Server Node  <https://github.com/bigtangle/server>
 
 ## Source for Android App <https://github.com/bigtangle/bigtangle-app>
+
+## White paper <https://github.com/bigtangle/whitepaper/bigtangle.pdf>
 
 ## [Chinese (中文)](/zh/readme.md)

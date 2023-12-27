@@ -32,6 +32,7 @@
 
 大网(BigTangle)实现去中心化彩票，通证跨链, 数字身份证, 提供Web服务和存储。
 
-## 白皮书 <https://github.com/igtangle/whitepaper/bigtangle.pdf>
-
+## 
+## 服务器节点应用源代码 <https://github.com/bigtangle/bigtangle-app>
 ## Android应用源代码 <https://github.com/bigtangle/bigtangle-app>
+## 白皮书 <https://github.com/igtangle/whitepaper/bigtangle.pdf>
