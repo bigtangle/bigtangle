@@ -1,8 +1,6 @@
 # Cryptocurrency, Payment, Asset，Exchange and Web3 Platform
 
-
-BigTangle is a cryptocurrency network that extends the blockchain with the help of the Markov Chain Monte Carlo (MCMC). Through the use of standard technology in conjunction with a parallelizable architecture, BigTangle positions itself as a successor to Bitcoin and Ethereum, with blockchain and smart contracts representing as special use cases. 
-The consensus forms the blockchain, where each chain block contains a list of references to other transaction blocks and the previous chain block. The parallelizable transaction blocks follow the rules of MCMC between two chain blocks. This new protocol is highly parallelizable, scalable and fast. The consensus algorithm is Proof-of-Work.
+BigTangle is a next-generation cryptocurrency network that enhances traditional blockchain technology by integrating the Markov Chain Monte Carlo (MCMC) method. By leveraging standard technologies and a parallelizable architecture, BigTangle aims to surpass Bitcoin and Ethereum, offering blockchain and smart contracts as specialized applications within its ecosystem. The network's consensus mechanism constructs the blockchain, with each chain block containing references to other transaction blocks as well as the preceding chain block. Transaction blocks, designed for parallel processing, adhere to MCMC rules between two chain blocks. This innovative protocol is highly scalable, fast, and optimized for parallelization. The consensus algorithm employed is Proof-of-Work, ensuring security and decentralization.
 
  Blockchain MCMC ![alt text](images/mcmc-en.png)
 
