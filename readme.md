@@ -15,7 +15,7 @@ BigTangle focuses on **economically critical use cases**, supporting token issua
 - **Unlimited Scalability:** The platform scales effortlessly to meet global demand.
 - **Permissionless Access:** Open to all participants without restrictions.
 - **Trustless System:** Fully decentralized, eliminating the need for intermediaries.
-- **Decentralized Proof of Work:** A distributed and fair mining mechanism.
+- **Decentralized Proof of Work:** A distributed POW mining mechanism.
 - **Constant Coin Supply and Fees:** Maintains a fixed coin supply and fee structure per block, with mining rewards derived from transaction fees.
 
 ---
